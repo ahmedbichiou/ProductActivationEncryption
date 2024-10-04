@@ -1,0 +1,12 @@
+C:\Users\eunab\source\repos\insertion test\insertion test\obj\Debug\insertion test.csproj.AssemblyReference.cache
+C:\Users\eunab\source\repos\insertion test\insertion test\obj\Debug\insertion_test.Form1.resources
+C:\Users\eunab\source\repos\insertion test\insertion test\obj\Debug\insertion_test.Properties.Resources.resources
+C:\Users\eunab\source\repos\insertion test\insertion test\obj\Debug\insertion test.csproj.GenerateResource.cache
+C:\Users\eunab\source\repos\insertion test\insertion test\obj\Debug\insertion test.csproj.CoreCompileInputs.cache
+C:\Users\eunab\source\repos\insertion test\insertion test\bin\Debug\insertion test.exe.config
+C:\Users\eunab\source\repos\insertion test\insertion test\bin\Debug\insertion test.exe
+C:\Users\eunab\source\repos\insertion test\insertion test\bin\Debug\insertion test.pdb
+C:\Users\eunab\source\repos\insertion test\insertion test\obj\Debug\insertion test.exe
+C:\Users\eunab\source\repos\insertion test\insertion test\obj\Debug\insertion test.pdb
+C:\Users\eunab\source\repos\insertion test\insertion test\obj\Debug\insertion_test.Form2.resources
+C:\Users\eunab\source\repos\insertion test\insertion test\obj\Debug\insertion_test.Form3.resources
